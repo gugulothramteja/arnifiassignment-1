@@ -1,0 +1,11 @@
+.homesubcontainer{
+    display: flex;
+}
+
+.homesidebar{
+    flex: 0.3;
+    background-color: black;
+}
+.homerightbar{
+    flex: 1;
+}

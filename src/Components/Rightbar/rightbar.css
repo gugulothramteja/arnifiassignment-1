@@ -1,0 +1,14 @@
+.MainRigntBar{
+    background-color: black;
+    height: 100vh;
+    overflow: auto;
+    
+}
+
+p{
+    color:white
+}
+
+.submainrightbar{
+    display: flex;
+}
